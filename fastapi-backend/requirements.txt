@@ -120,3 +120,4 @@ openai
 requests
 Pillow
 opencv-python
+py-algorand-sdk
